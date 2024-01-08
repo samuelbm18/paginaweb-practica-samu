@@ -994,9 +994,7 @@ body {
             width: 90%;
             margin: 0 auto;  
         }
-        .header .menu__icon {
-            display: none;
-        }
+       
         .header__wrapper{
             position: absolute;
             background: transparent;
@@ -1031,7 +1029,7 @@ body {
             flex-direction: row;
         }
         .contact__content-img{
-            display: block;
+            display: noone;
         }
         .title--2{ 
             font-size: 44px;
@@ -1049,7 +1047,7 @@ body {
             background-size: cover;
         }
         .herobanner__title{        
-            max-width: 620px;   
+            max-width: 520px;   
             padding-top: 10%;   
         }
         .paragraph{
