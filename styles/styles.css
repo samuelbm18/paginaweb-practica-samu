@@ -988,49 +988,7 @@ body {
  @media screen and (max-width:640px){
 
 
-	   /* header */
-        .header{
-            position:relative;
-            width: 90%;
-            margin: 0 auto;  
-        }
-       
-        .header__wrapper{
-            position: absolute;
-            background: transparent;
-            z-index: 5;
-            padding-top: 40px;  
-            width: 100%;
-        }
-        .logo{      
-            position: relative;
-            padding:0;
-        }
-        .menu{
-            transform: translateX(0);
-            flex-direction: row;
-            width: 70%;
-            position: relative;
-            background-color: transparent;
-            height: auto;
-        }
-        .menu__item{
-            font-family: 'montserratbold';
-            font-size: 18px;
-            color: #ffffff;
-        }
-        .menu__item a{
-            font-family: 'montserratbold';
-            font-size: 18px;
-            color: #ffffff;
-        }
-        .contact__content{
-            display: flex; 
-            flex-direction: row;
-        }
-        .contact__content-img{
-            display: noone;
-        }
+	
         .title--2{ 
             font-size: 44px;
             line-height: 46px;
@@ -1047,7 +1005,7 @@ body {
             background-size: cover;
         }
         .herobanner__title{        
-            max-width: 520px;   
+            max-width: 620px;   
             padding-top: 10%;   
         }
         .paragraph{
