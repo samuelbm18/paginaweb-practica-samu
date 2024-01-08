@@ -947,8 +947,8 @@ body {
             max-width: 620px;   
             padding-top: 10%;   
         }
-	    .herobanner__video-container video{
-    width: 100px;
+	.herobanner__video-container video{
+              display:none;
     
 
     
