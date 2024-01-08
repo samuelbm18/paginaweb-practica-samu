@@ -985,61 +985,7 @@ body {
             padding-top: 0;
         }
     }
- @media screen and (max-width:640px){
 
-
-	
-        .title--2{ 
-            font-size: 44px;
-            line-height: 46px;
-        }
-        .title--3{ 
-            font-size: 18px;
-            line-height: 20px;
-        }
-        /* Hero Banner*/
-        .herobanner{
-            height: auto;
-            width: 100%;
-            background: url('../img/fondooscuro.png') no-repeat center;
-            background-size: cover;
-        }
-        .herobanner__title{        
-            max-width: 620px;   
-            padding-top: 10%;   
-        }
-        .paragraph{
-            font-size: 14px;
-            line-height: 18px;
-        }
-    
-        /* Features */
-    
-        .features__list{
-            margin-top: 100px;
-        }
-        .features__list-container{
-            letter-spacing: -5px;
-        }
-        .features__list-container .features__container-element {
-            display: inline-block;
-            width: 50%;
-            letter-spacing: normal;
-        }
-    
-         
-    
-        /* Foooter */
-    
-        .footer__content{
-            display: flex;
-            flex-direction: row;
-        }
-        .footer__utilities{
-            padding-top: 0;
-        }
-    
-    }
     
     @keyframes float {
         0% {
